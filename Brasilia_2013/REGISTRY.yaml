@@ -1,0 +1,5 @@
+html:
+  - name: notes
+    dest: notes
+htmls:
+  - talk_Brasilia
