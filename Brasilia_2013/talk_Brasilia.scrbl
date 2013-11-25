@@ -38,6 +38,10 @@ Andrei Mikhailov, IFT UNESP. Talk based on: A.M., @hyperlink["http://arxiv.org/a
 @hyperlink["http://arxiv.org/abs/1306.0145"]{http://arxiv.org/abs/1306.0145}.
 @bystro-toc[]
 
+@linebreak[]
+
+@hyperlink["https://github.com/amkhlv/talks"]{source code}
+
 @slide["Introduction" #:tag "Introduction" #:showtitle #t]{
 I will talk about some aspect of the @spn[attn]{superstring perturbation theory}.
 In order to compute the S-matrix, we sum over the Riemann surfaces with the insertions of

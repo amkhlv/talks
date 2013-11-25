@@ -1180,16 +1180,16 @@ HI
 --------------------------
 XML
 talk_Brasilia/130.png 
-I\subset {\cal L}_{\rm tot}
+C^n
 size:25
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>8</depth></report>========
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>4</depth></report>========
 --------------------------
 HI
 ========
 --------------------------
 XML
 talk_Brasilia/131.png 
-{\bf g} = {\bf psu}(2,2|4) = {\cal L}_{\rm tot}/I
+\psi(\xi_1,\ldots,\xi_n)\in V
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
 --------------------------
@@ -1198,7 +1198,7 @@ HI
 --------------------------
 XML
 talk_Brasilia/132.png 
-H^n\left({\cal L}_{\rm tot}\;,\;{\bf g}_{\bar{0}}\;,\;\,(U{\bf g})'\right) \;=\; H^n(I)
+H^n({\cal L}_{\rm tot}\;,\;{\bf g}_{\bar{0}}\;,\;V\,)
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
 --------------------------
@@ -1207,7 +1207,7 @@ HI
 --------------------------
 XML
 talk_Brasilia/133.png 
-H^2(I)
+H^n(Q,V\,)
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
 --------------------------
@@ -1216,6 +1216,82 @@ HI
 --------------------------
 XML
 talk_Brasilia/134.png 
+\psi\in\mbox{Hom}_{{\bf g}_{\bar{0}}}\left(
+\Lambda^n\left( {{\cal L}_{\rm tot}\over {\bf g}_{\bar{0}}} \right)\;,\;V\right)
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>38</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+talk_Brasilia/135.png 
+\lambda_L^{\alpha}\nabla^L_{\alpha} + \lambda_R^{\hat{\alpha}}\nabla^R_{\hat{\alpha}}
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>21</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+talk_Brasilia/136.png 
+\xi_1,\ldots,\xi_n
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>9</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+talk_Brasilia/137.png 
+\psi \mapsto \psi\left(\;
+\lambda_L^{\alpha}\nabla^L_{\alpha} + \lambda_R^{\hat{\alpha}}\nabla^R_{\hat{\alpha}}\;\;,\;\;\ldots\;\;,\;\;
+\lambda_L^{\alpha}\nabla^L_{\alpha} + \lambda_R^{\hat{\alpha}}\nabla^R_{\hat{\alpha}}
+\;\right)
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>23</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+talk_Brasilia/138.png 
+I\subset {\cal L}_{\rm tot}
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>8</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+talk_Brasilia/139.png 
+{\bf g} = {\bf psu}(2,2|4) = {\cal L}_{\rm tot}/I
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+talk_Brasilia/140.png 
+H^n\left({\cal L}_{\rm tot}\;,\;{\bf g}_{\bar{0}}\;,\;\,(U{\bf g})'\right) \;=\; H^n(I)
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+talk_Brasilia/141.png 
+H^2(I)
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+talk_Brasilia/142.png 
 H_2(I) \;=\;
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
@@ -1224,7 +1300,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/135.png 
+talk_Brasilia/143.png 
 \left\{ \sum_i x_i\wedge y_i\;|\; \sum_i [x_i,y_i] = 0 \right\}
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>46</depth></report>========
@@ -1233,7 +1309,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/136.png 
+talk_Brasilia/144.png 
 \sum_i \left([x_i,y_i]\wedge z_i + \mbox{cycl}(x,y,z)\right)
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>44</depth></report>========
@@ -1242,7 +1318,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/137.png 
+talk_Brasilia/145.png 
 C^{\alpha\dot{\alpha}} \nabla^L_{\alpha}\wedge\nabla^R_{\dot{\beta}}
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>24</depth></report>========
@@ -1251,7 +1327,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/138.png 
+talk_Brasilia/146.png 
 C^{\alpha\dot{\alpha}}
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>4</depth></report>========
@@ -1260,7 +1336,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/139.png 
+talk_Brasilia/147.png 
 [\nabla_k^L,\nabla_l^L]\wedge [\nabla_m^R,\nabla_n^R]
 + [\nabla_m^L\;,\nabla_n^L]\wedge [\nabla_k^R,\nabla_l^R]
 \;
@@ -1271,7 +1347,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/140.png 
+talk_Brasilia/148.png 
 = {\cal R}_{klmn}
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>8</depth></report>========
@@ -1280,7 +1356,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/141.png 
+talk_Brasilia/149.png 
 (\nabla_{[k}^L-\nabla_{[k}^R)\wedge [\nabla^L_l,\nabla^L_{m]}\;]
 \;
 size:25
@@ -1290,7 +1366,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/142.png 
+talk_Brasilia/150.png 
 = H_{klm} =\partial_{[k}B_{lm]}
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>13</depth></report>========
@@ -1299,7 +1375,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/143.png 
+talk_Brasilia/151.png 
 A_m^{\pm}\;
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
@@ -1308,7 +1384,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/144.png 
+talk_Brasilia/152.png 
 = A_m^L \pm A_m^R
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>21</depth></report>========
@@ -1317,7 +1393,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/145.png 
+talk_Brasilia/153.png 
 g^{lm}{\cal R}_{klmn} \;
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>9</depth></report>========
@@ -1326,7 +1402,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/146.png 
+talk_Brasilia/154.png 
 = {3\over 4} \nabla_{(k}A^-_{n)}
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>32</depth></report>========
@@ -1335,7 +1411,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/147.png 
+talk_Brasilia/155.png 
 0 \;
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>4</depth></report>========
@@ -1344,7 +1420,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/148.png 
+talk_Brasilia/156.png 
 = \nabla_{[k}A^-_{n]}
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>25</depth></report>========
@@ -1353,7 +1429,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/149.png 
+talk_Brasilia/157.png 
 \nabla^k H_{klm} \;
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>8</depth></report>========
@@ -1362,7 +1438,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/150.png 
+talk_Brasilia/158.png 
 = \nabla_{[l} A^+_{m]}
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>25</depth></report>========
@@ -1371,7 +1447,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/151.png 
+talk_Brasilia/159.png 
 = \nabla_{(l}A^+_{m)}
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>25</depth></report>========
@@ -1380,7 +1456,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/152.png 
+talk_Brasilia/160.png 
 A^-_n
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
@@ -1389,7 +1465,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/153.png 
+talk_Brasilia/161.png 
 A_n^+
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
@@ -1398,7 +1474,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/154.png 
+talk_Brasilia/162.png 
 L_+  =\;
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>10</depth></report>========
@@ -1407,7 +1483,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/155.png 
+talk_Brasilia/163.png 
 {\partial\over\partial\tau^+}
 + \left( J^{{\cal A}}_{0+} - N^{{\cal A}}_+ \right)t^0_{{\cal A}} \;\;\;+
 size:25
@@ -1417,7 +1493,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/156.png 
+talk_Brasilia/164.png 
 
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>4</depth></report>========
@@ -1426,7 +1502,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/157.png 
+talk_Brasilia/165.png 
 \phantom{\partial\over\partial\tau^+} + {1\over z} J^{\alpha}_{3+}\;\;t^3_{\alpha}
 + {1\over z^2} J^m_{2+}\;t^2_m + {1\over z^3} J^{\dot{\alpha}}_{1+}\; t^1_{\dot{\alpha}}
 + {1\over z^4} N^{{\cal A}}_+t^0_{{\cal A}}\;\;\;
@@ -1437,7 +1513,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/158.png 
+talk_Brasilia/166.png 
 L_- = \;
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>10</depth></report>========
@@ -1446,7 +1522,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/159.png 
+talk_Brasilia/167.png 
 {\partial\over\partial\tau^-}
 + \left( J^{{\cal A}}_{0-} - N^{{\cal A}}_- \right)t^0_{{\cal A}} \;\;\; +
 size:25
@@ -1456,7 +1532,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/160.png 
+talk_Brasilia/168.png 
 \phantom{\partial\over\partial\tau^-}
 + zJ^{\dot{\alpha}}_{1-}\;\;t^1_{\dot{\alpha}} + z^2 J^m_{2-}\;t^2_m
 + z^3J^{\alpha}_{3-}\;\;t^3_{\alpha} + z^4N^{{\cal A}}_- t^0_{{\cal A}}\;\;\;
@@ -1467,7 +1543,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/161.png 
+talk_Brasilia/169.png 
 t^0_{{\cal A}}\;\;\;, t^1_{\dot{\alpha}}\;, t^2_m\;, t^3_{\alpha}
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
@@ -1476,7 +1552,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/162.png 
+talk_Brasilia/170.png 
 {\bf g} = {\bf psl}(4|4)
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
@@ -1485,7 +1561,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/163.png 
+talk_Brasilia/171.png 
 [t^{\bar{a}}_A \;,  t^{\bar{b}}_B\; ] = f_{AB}{}^C t^{\bar{a} + \bar{b}\mbox{ \tiny mod } 4}_C
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>21</depth></report>========
@@ -1494,7 +1570,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/164.png 
+talk_Brasilia/172.png 
 J
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>4</depth></report>========
@@ -1503,7 +1579,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/165.png 
+talk_Brasilia/173.png 
 N
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>4</depth></report>========
@@ -1512,7 +1588,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/166.png 
+talk_Brasilia/174.png 
 J_{\bar{k}} = -(dg g^{-1})_{\bar{k}}
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
@@ -1521,7 +1597,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/167.png 
+talk_Brasilia/175.png 
 N_+ = \{w_+,\lambda_L\}\;,\;\; N_- = \{w_-,\lambda_R\}
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
@@ -1530,7 +1606,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/168.png 
+talk_Brasilia/176.png 
 z
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>4</depth></report>========
@@ -1539,7 +1615,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/169.png 
+talk_Brasilia/177.png 
 [L_+,L_-] = 0
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
@@ -1548,7 +1624,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/170.png 
+talk_Brasilia/178.png 
 {1\over z}t_{\alpha}^3\;
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>32</depth></report>========
@@ -1557,7 +1633,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/171.png 
+talk_Brasilia/179.png 
 {1\over z^2} t^2_m\;
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>32</depth></report>========
@@ -1566,7 +1642,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/172.png 
+talk_Brasilia/180.png 
 {1\over z^3} t^1_{\dot{\alpha}}\;
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>32</depth></report>========
@@ -1575,7 +1651,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/173.png 
+talk_Brasilia/181.png 
 \ldots
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>4</depth></report>========
@@ -1584,7 +1660,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/174.png 
+talk_Brasilia/182.png 
 L{\bf g} = L{\bf psl}(4|4)
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
@@ -1593,7 +1669,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/175.png 
+talk_Brasilia/183.png 
 {\partial\over\partial\tau^+}
 + \left( J^{\cal A}_{0+} - N^{\cal A}_+ \right)T^0_{\cal A}\;\;\;+
 size:25
@@ -1603,7 +1679,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/176.png 
+talk_Brasilia/184.png 
 \phantom{\partial\over\partial\tau^+} +  J^{\alpha}_{3+}\;\;T^{-1}_{\alpha}
 +  J^m_{2+}\;T^{-2}_m +  J^{\dot{\alpha}}_{1+}\; T^{-3}_{\dot{\alpha}}
 +  N^{\cal A}_+T^{-4}_{\cal A}\;\;
@@ -1614,7 +1690,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/177.png 
+talk_Brasilia/185.png 
 {\partial\over\partial\tau^-}
 + \left( J^{\cal A}_{0-} - N^{\cal A}_- \right)T^0_{\cal A} \;\;\;+
 size:25
@@ -1624,7 +1700,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/178.png 
+talk_Brasilia/186.png 
 \phantom{\partial\over\partial\tau^-}
 + J^{\dot{\alpha}}_{1-}\;T^1_{\dot{\alpha}} + J^m_{2-}\;T^2_m
 + J^{\alpha}_{3-}\;T^3_{\alpha} + N^{\cal A}_- T^4_{\cal A}\;\;\;
@@ -1635,7 +1711,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/179.png 
+talk_Brasilia/187.png 
 T_{\alpha}^{-1}
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
@@ -1644,7 +1720,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/180.png 
+talk_Brasilia/188.png 
  z^{-1}t^3_{\alpha}
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
@@ -1653,7 +1729,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/181.png 
+talk_Brasilia/189.png 
 T^{n}_A
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
@@ -1662,7 +1738,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/182.png 
+talk_Brasilia/190.png 
 L_{\pm}
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>10</depth></report>========
@@ -1671,7 +1747,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/183.png 
+talk_Brasilia/191.png 
 T_A^n
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
@@ -1680,7 +1756,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/184.png 
+talk_Brasilia/192.png 
 \{\nabla_{\alpha}^L, \nabla_{\beta}^L\} = \;
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>24</depth></report>========
@@ -1689,7 +1765,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/185.png 
+talk_Brasilia/193.png 
 f_{\alpha\beta}{}^m A_m^L
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>22</depth></report>========
@@ -1698,7 +1774,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/186.png 
+talk_Brasilia/194.png 
 [\nabla_{\alpha}^L, A_m^L\,] = \;
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>21</depth></report>========
@@ -1707,7 +1783,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/187.png 
+talk_Brasilia/195.png 
 f_{\alpha m}{}^{\dot{\beta}} W_{L\dot{\beta}}
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>26</depth></report>========
@@ -1716,7 +1792,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/188.png 
+talk_Brasilia/196.png 
 \nabla^R_{\dot{\alpha}}
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>21</depth></report>========
@@ -1725,7 +1801,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/189.png 
+talk_Brasilia/197.png 
 A_m^L
 size:22
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>9</depth></report>========
@@ -1734,7 +1810,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/190.png 
+talk_Brasilia/198.png 
 f_{\alpha m}{}^{\dot{\beta}}
 size:22
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>18</depth></report>========
@@ -1743,7 +1819,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/191.png 
+talk_Brasilia/199.png 
 W_{L\dot{\beta}}
 size:22
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>13</depth></report>========
@@ -1752,7 +1828,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/192.png 
+talk_Brasilia/200.png 
 L_+  = \;
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>10</depth></report>========
@@ -1761,7 +1837,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/193.png 
+talk_Brasilia/201.png 
 \left(
    {\partial\over \partial \tau^+}
    + J_{0+}^{\cal A}\; t^0_{\cal A} \;\;\;
@@ -1774,7 +1850,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/194.png 
+talk_Brasilia/202.png 
 + \; \lambda_L^{\alpha} w_{L+}^{\dot{\beta}}\;\, \left(
 \{  \nabla^L_{\alpha} \,,\, W^L_{\dot{\beta}}\}
 - f_{\alpha\dot{\beta}}{}^{\cal A} t^0_{\cal A}\;\;\;\,\right)
@@ -1785,7 +1861,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/195.png 
+talk_Brasilia/203.png 
 \left(
    {\partial\over\partial\tau^-}
    + J_{0-}^{\cal A}\; t^0_{\cal A}\;\;\;
@@ -1799,7 +1875,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/196.png 
+talk_Brasilia/204.png 
 + \; \lambda_R^{\dot{\alpha}} w_{R-}^{\beta}\;\,\left(
    \{ \nabla^R_{\dot{\alpha}} \;,\; W^R_{\beta} \}
    - f_{\dot{\alpha}\beta}{}^{\cal A} t^0_{\cal A}\;\;\;\,
@@ -1811,7 +1887,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/197.png 
+talk_Brasilia/205.png 
 \xi_0(\tau^+,\tau^-) \in {\bf g}_{\bar{0}}
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
@@ -1820,7 +1896,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/198.png 
+talk_Brasilia/206.png 
 \delta_{\xi_{\bar{0}}}
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>12</depth></report>========
@@ -1829,7 +1905,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/199.png 
+talk_Brasilia/207.png 
 \delta_{\xi_{\bar{0}}} g =\;
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>12</depth></report>========
@@ -1838,7 +1914,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/200.png 
+talk_Brasilia/208.png 
 \xi_{\bar{0}} g
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>10</depth></report>========
@@ -1847,7 +1923,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/201.png 
+talk_Brasilia/209.png 
 \delta_{\xi_{\bar{0}}} \lambda_{L|R} =\;
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>13</depth></report>========
@@ -1856,7 +1932,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/202.png 
+talk_Brasilia/210.png 
 [\xi_{\bar{0}},\;\lambda_{L|R}]
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>13</depth></report>========
@@ -1865,7 +1941,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/203.png 
+talk_Brasilia/211.png 
 \delta_{\xi_{\bar{0}}} w_{\pm} =\;
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>12</depth></report>========
@@ -1874,7 +1950,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/204.png 
+talk_Brasilia/212.png 
 [\xi_{\bar{0}},\;w_{\pm}]
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
@@ -1883,7 +1959,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/205.png 
+talk_Brasilia/213.png 
 \delta_{\xi_0}L_{\pm} = [\xi_0,\;L_{\pm}]
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>12</depth></report>========
@@ -1892,7 +1968,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/206.png 
+talk_Brasilia/214.png 
 [L_+,L_-]=0
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
@@ -1901,7 +1977,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/207.png 
+talk_Brasilia/215.png 
 Q_{\rm BRST}\; g \;=\;
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>9</depth></report>========
@@ -1910,7 +1986,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/208.png 
+talk_Brasilia/216.png 
 (\lambda_L^{\alpha}t^3_{\alpha} + \lambda_R^{\hat{\alpha}}t^1_{\hat{\alpha}})g
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>21</depth></report>========
@@ -1919,7 +1995,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/209.png 
+talk_Brasilia/217.png 
 Q_{\rm BRST}\; w_{1+} \;=\;
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>10</depth></report>========
@@ -1928,7 +2004,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/210.png 
+talk_Brasilia/218.png 
 J_{1+}
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>10</depth></report>========
@@ -1937,7 +2013,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/211.png 
+talk_Brasilia/219.png 
 Q_{\rm BRST}\; w_{3-} \;=\;
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>10</depth></report>========
@@ -1946,7 +2022,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/212.png 
+talk_Brasilia/220.png 
 J_{3-}
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>10</depth></report>========
@@ -1955,7 +2031,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/213.png 
+talk_Brasilia/221.png 
 Q_{\rm BRST}\; \lambda_{L|R} \;=\;
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>13</depth></report>========
@@ -1964,7 +2040,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/214.png 
+talk_Brasilia/222.png 
    Q_{BRST}L_{\pm} \;=\;
 \left[
    L_{\pm}\;,\;\left(
@@ -1979,7 +2055,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/215.png 
+talk_Brasilia/223.png 
 H^2({\cal L}_{\rm tot},{\bf g}_{\bar{0}}, \; (U{\bf g})')
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
@@ -1988,7 +2064,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/216.png 
+talk_Brasilia/224.png 
 \xi
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>9</depth></report>========
@@ -1997,7 +2073,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/217.png 
+talk_Brasilia/225.png 
 \eta
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>9</depth></report>========
@@ -2006,7 +2082,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/218.png 
+talk_Brasilia/226.png 
 (U{\bf g})'
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
@@ -2015,7 +2091,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/219.png 
+talk_Brasilia/227.png 
 g\in PSU(2,2|4)
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
@@ -2024,7 +2100,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/220.png 
+talk_Brasilia/228.png 
 \psi\in H^2({\cal L}_{\rm tot},{\bf g}_{\bar{0}}, \; (U{\bf g})')
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
@@ -2033,7 +2109,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/221.png 
+talk_Brasilia/229.png 
 g
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>9</depth></report>========
@@ -2042,7 +2118,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/222.png 
+talk_Brasilia/230.png 
 \psi(\xi,\eta)(g)
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
@@ -2051,7 +2127,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/223.png 
+talk_Brasilia/231.png 
 L_{\pm} = {\partial\over\partial \tau^{\pm}} + {\cal J}_{\pm}
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>32</depth></report>========
@@ -2060,7 +2136,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/224.png 
+talk_Brasilia/232.png 
 {\cal J}_{\pm}
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>10</depth></report>========
@@ -2069,7 +2145,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/225.png 
+talk_Brasilia/233.png 
 U = \psi({\cal J}_+,{\cal J}_-)(g)
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
@@ -2078,7 +2154,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/226.png 
+talk_Brasilia/234.png 
 {\cal L}_v = \iota_v d + d \iota_v
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>8</depth></report>========
@@ -2087,7 +2163,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/227.png 
+talk_Brasilia/235.png 
 {\cal J} = {\cal J}_+ d\tau^+ + {\cal J}_- d\tau^-
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>10</depth></report>========
@@ -2096,7 +2172,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/228.png 
+talk_Brasilia/236.png 
 {\cal J}
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>7</depth></report>========
@@ -2105,7 +2181,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/229.png 
+talk_Brasilia/237.png 
 \psi
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>9</depth></report>========
@@ -2114,7 +2190,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/230.png 
+talk_Brasilia/238.png 
 Q_{\rm Lie}
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>9</depth></report>========
@@ -2123,7 +2199,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/231.png 
+talk_Brasilia/239.png 
 d
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>4</depth></report>========
@@ -2132,7 +2208,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/232.png 
+talk_Brasilia/240.png 
 \epsilon
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>4</depth></report>========
@@ -2141,7 +2217,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/233.png 
+talk_Brasilia/241.png 
 \epsilon'
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
@@ -2150,7 +2226,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/234.png 
+talk_Brasilia/242.png 
 I_{\epsilon}
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>8</depth></report>========
@@ -2159,7 +2235,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/235.png 
+talk_Brasilia/243.png 
 I_{\epsilon} = \epsilon(\lambda_L^{\alpha} \nabla^L_{\alpha} + \lambda_R^{\hat{\alpha}}\nabla^R_{\hat{\alpha}})
 {\partial\over\partial {\cal J}}
 size:25
@@ -2169,7 +2245,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/236.png 
+talk_Brasilia/244.png 
 \epsilon(\lambda_L^{\alpha} \nabla^L_{\alpha} + \lambda_R^{\hat{\alpha}}\nabla^R_{\hat{\alpha}})
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>21</depth></report>========
@@ -2178,7 +2254,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/237.png 
+talk_Brasilia/245.png 
 \epsilon Q = dI_{\epsilon} + I_{\epsilon}d
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>9</depth></report>========
@@ -2187,7 +2263,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/238.png 
+talk_Brasilia/246.png 
 d\psi = 0
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>9</depth></report>========
@@ -2196,7 +2272,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/239.png 
+talk_Brasilia/247.png 
 \epsilon Q\psi = dw\;\;
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>9</depth></report>========
@@ -2205,7 +2281,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/240.png 
+talk_Brasilia/248.png 
 \;\;w = I_{\epsilon}\psi
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>9</depth></report>========
@@ -2214,7 +2290,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/241.png 
+talk_Brasilia/249.png 
 [dI_{\epsilon'} + I_{\epsilon'}d\;\;,\;\; I_{\epsilon}]\;\psi = 0
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>13</depth></report>========
@@ -2223,7 +2299,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/242.png 
+talk_Brasilia/250.png 
 \epsilon'Q\;w = {1\over 2}dv\;\;
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>32</depth></report>========
@@ -2232,7 +2308,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/243.png 
+talk_Brasilia/251.png 
 \;\;v = I_{\epsilon'}I_{\epsilon}\psi
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>13</depth></report>========
@@ -2241,7 +2317,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/244.png 
+talk_Brasilia/252.png 
 v
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>4</depth></report>========
@@ -2250,105 +2326,10 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/245.png 
+talk_Brasilia/253.png 
 \lambda_L + \lambda_R
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>8</depth></report>========
 --------------------------
-HI
+STOP
 ========
---------------------------
-XML
-talk_Brasilia/246.png 
-C^n
-size:25
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>4</depth></report>========
---------------------------
-HI
-========
---------------------------
-XML
-talk_Brasilia/247.png 
-\psi(\xi_1,\ldots,\xi_n)\in V
-size:25
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
---------------------------
-HI
-========
---------------------------
-XML
-talk_Brasilia/248.png 
-H^n({\cal L}_{\rm tot}\;,\;{\bf g}_{\bar{0}}\;,\;V\,)
-size:25
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
---------------------------
-HI
-========
---------------------------
-XML
-talk_Brasilia/249.png 
-H^n(Q,V\,)
-size:25
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
---------------------------
-HI
-========
---------------------------
-XML
-talk_Brasilia/250.png 
-\psi\mbox{Hom}_{{\bf g}_{\bar{0}}}\left(
-\Lambda^n\left( {{\cal L}_{\rm tot}\over {\bf g}_{\bar{0}}} \right)\;,\;V\right)
-size:25
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>38</depth></report>========
---------------------------
-HI
-========
---------------------------
-XML
-talk_Brasilia/251.png 
-\lambda_L^{\alpha}\nabla^L_{\alpha} + \lambda_R^{\hat{\alpha}}\nabla^R_{\hat{\alpha}}
-size:25
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>21</depth></report>========
---------------------------
-HI
-========
---------------------------
-XML
-talk_Brasilia/252.png 
-\xi_1,\ldots,\xi_n
-size:25
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>9</depth></report>========
---------------------------
-HI
-========
---------------------------
-XML
-talk_Brasilia/253.png 
-\psi \mapsto \psi\left(
-\lambda_L^{\alpha}\nabla^L_{\alpha} + \lambda_R^{\hat{\alpha}}\nabla^R_{\hat{\alpha}}\;,\;\ldots\;,\;
-\lambda_L^{\alpha}\nabla^L_{\alpha} + \lambda_R^{\hat{\alpha}}\nabla^R_{\hat{\alpha}}
-\right)
-size:25
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>23</depth></report>========
---------------------------
-HI
-========
---------------------------
-XML
-talk_Brasilia/254.png 
-\psi\in\mbox{Hom}_{{\bf g}_{\bar{0}}}\left(
-\Lambda^n\left( {{\cal L}_{\rm tot}\over {\bf g}_{\bar{0}}} \right)\;,\;V\right)
-size:25
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>38</depth></report>========
---------------------------
-HI
-========
---------------------------
-XML
-talk_Brasilia/255.png 
-\psi \mapsto \psi\left(\;
-\lambda_L^{\alpha}\nabla^L_{\alpha} + \lambda_R^{\hat{\alpha}}\nabla^R_{\hat{\alpha}}\;\;,\;\;\ldots\;\;,\;\;
-\lambda_L^{\alpha}\nabla^L_{\alpha} + \lambda_R^{\hat{\alpha}}\nabla^R_{\hat{\alpha}}
-\;\right)
-size:25
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>23</depth></report>========
