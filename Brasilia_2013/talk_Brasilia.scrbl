@@ -38,9 +38,7 @@ Andrei Mikhailov, IFT UNESP. Talk based on: A.M., @hyperlink["http://arxiv.org/a
 @hyperlink["http://arxiv.org/abs/1306.0145"]{http://arxiv.org/abs/1306.0145}.
 @bystro-toc[]
 
-@linebreak[]
-
-@hyperlink["https://github.com/amkhlv/talks"]{source code}
+@smaller{[@hyperlink["https://github.com/amkhlv/talks"]{source code}]}
 
 @slide["Introduction" #:tag "Introduction" #:showtitle #t]{
 I will talk about some aspect of the @spn[attn]{superstring perturbation theory}.
@@ -490,8 +488,10 @@ In particular, the linear space dual to @f{H^2(I)}:
 "" @elem{modulo @f{\sum_i \left([x_i,y_i]\wedge z_i + \mbox{cycl}(x,y,z)\right)}} ""
 ]]
 describes @bold{gauge invariant local operators}. The analysis of (@ref{H2}) is nontrivial, the only
-operator in AdS which I can identify is the @bold{dilaton} @f-3{C^{\alpha\dot{\alpha}} \nabla^L_{\alpha}\wedge\nabla^R_{\dot{\beta}}}
-where @f{C^{\alpha\dot{\alpha}}} is some @f{{\bf g}_{\bar{0}}}-invariant tensor. In the @bold{flat space limit}, the analysis simplifies:
+operator in AdS which I can identify is the @bold{dilaton} 
+@f-3{C^{\alpha\hat{\alpha}} (\nabla^L_{\alpha}-W^R_{\alpha})\wedge(\nabla^R_{\hat{\beta}}-W^L_{\hat{\alpha}})}
+where @f{C^{\alpha\dot{\alpha}}} is some @f{{\bf g}_{\bar{0}}}-invariant tensor and @f{W^{L|R}} is defined in (@ref{DefOperatorW}). 
+In the @bold{flat space limit}, the analysis simplifies:
 @align[r.l.n @list[
 @f{[\nabla_k^L,\nabla_l^L]\wedge [\nabla_m^R,\nabla_n^R]
 + [\nabla_m^L\;,\nabla_n^L]\wedge [\nabla_k^R,\nabla_l^R]
@@ -605,13 +605,13 @@ The basic relations (@ref{NablaLNablaL}) imply:
 @align[r.l.n @list[
 @f{\{\nabla_{\alpha}^L, \nabla_{\beta}^L\} = \;}@f{f_{\alpha\beta}{}^m A_m^L} @label{DefAm}
 ]@list[
-@f{[\nabla_{\alpha}^L, A_m^L\,] = \;}@f{f_{\alpha m}{}^{\dot{\beta}} W_{L\dot{\beta}}}@label{DefW}
+@f{[\nabla_{\alpha}^L, A_m^L\,] = \;}@f{f_{\alpha m}{}^{\dot{\beta}} W_{L\dot{\beta}}}@label{DefOperatorW}
 ]]
 and similar equations for the commutators of @f{\nabla^R_{\dot{\alpha}}}.
 @(fsize+ (- 3))
 @div[comment]{
 Eq. (@ref{DefAm}) we already discussed; it encodes the SUGRA constraints and at the same time @bold{defines} @f{A_m^L}.
-Eq. (@ref{DefW})  is a @italic{theorem-definition}: the @italic{theorem} says that the left hand side is proportional
+Eq. (@ref{DefOperatorW})  is a @italic{theorem-definition}: the @italic{theorem} says that the left hand side is proportional
 to @f{f_{\alpha m}{}^{\dot{\beta}}}, and the @italic{definition} is of @f{W_{L\dot{\beta}}}
 }
 @(fsize=)

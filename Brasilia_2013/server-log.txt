@@ -4,6 +4,2039 @@ HI
 ========
 --------------------------
 XML
+notes/1.png 
+\sigma
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>4</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/2.png 
+Q
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>9</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/3.png 
+Q^2 = 0
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>9</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/4.png 
+U(1)
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/5.png 
+Q = Q_L + Q_R
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>9</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/6.png 
+Q_L
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>9</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/7.png 
+Q_R
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>9</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/8.png 
+x,\theta
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>9</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/9.png 
+\lambda_L,\lambda_R,w_+,w_-
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>10</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/10.png 
+\lambda_L,\lambda_R
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>9</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/11.png 
+\lambda_L^{\alpha}\,\Gamma_{\alpha\beta}\,\lambda_L^{\beta} \; = \;
+\lambda_R^{\dot{\alpha}}\,\Gamma_{\dot{\alpha}\dot{\beta}}\,\lambda_R^{\dot{\beta}} = 0
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>26</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/12.png 
+w_{\pm}
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>10</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/13.png 
+\lambda
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>4</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/14.png 
+w's
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/15.png 
+V(x,\theta,\lambda)
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/16.png 
+ V \mapsto V + Qu 
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>9</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/17.png 
+S \mapsto S + \int \;d\tau^+ d\tau^- \; U
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>36</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/18.png 
+U
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>4</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/19.png 
+V
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>4</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/20.png 
+dV \;=\;
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>4</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/21.png 
+QW
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>9</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/22.png 
+dW \;=\;
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>4</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/23.png 
+QU
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>9</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/24.png 
+W
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>4</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/25.png 
+AdS_5\times S^5
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>8</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/26.png 
+Q_{\rm Lie} = c^a t_a - {1\over 2} f^a_{bc}\;c^bc^c{\partial\over\partial c^a}
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>32</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/27.png 
+x,\theta,\lambda
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>9</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/28.png 
+Qf(x,\theta,\lambda) \; = \; \lambda^{\alpha}\left(
+{\partial\over\partial\theta^{\alpha}} + \theta^{\beta}\Gamma^m_{\beta\alpha}\; {\partial\over\partial x^m}
+\right)\;f(x,\theta,\lambda)
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>38</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/29.png 
+f
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>9</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/30.png 
+\Gamma_{[m_1\ldots m_5]}^{\alpha\beta}\;\;\;\;\;\;\nabla_{\alpha}\nabla_{\beta} = 0
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>25</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/31.png 
+\nabla_m
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>8</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/32.png 
+\{\nabla_{\alpha},\nabla_{\beta}\} = \Gamma_{\alpha\beta}{}^m \nabla_m
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>12</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/33.png 
+\nabla_{\alpha}
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>8</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/34.png 
+\nabla_{\alpha} \;=\;
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>8</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/35.png 
+{\partial\over\partial\theta^{\alpha}} + \theta^{\beta}\Gamma^m_{\beta\alpha}\;{\partial\over\partial x^m} + A_{\alpha}(x,\theta)
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>32</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/36.png 
+\nabla_m \;=\;
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>8</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/37.png 
+{\partial\over\partial x^m} + A_m(x,\theta)
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>32</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/38.png 
+A_{\alpha}
+size:22
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>7</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/39.png 
+A_m
+size:22
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>7</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/40.png 
+\alpha
+size:22
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>3</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/41.png 
+m
+size:22
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>3</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/42.png 
+\nabla_{\alpha}
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>8</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/43.png 
+\rm susy
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>9</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/44.png 
+S_{\alpha}
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>8</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/45.png 
+T_m
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>8</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/46.png 
+\{S_{\alpha},S_{\beta}\} \;=\;
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>12</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/47.png 
+\Gamma_{\alpha\beta}^m\; T_m
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>14</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/48.png 
+\{S_{\alpha},T_m\} \;=\;
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/49.png 
+0
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>4</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/50.png 
+\nabla_{\alpha} \;\to\;
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>8</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/51.png 
+I_{\rm susy}
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>12</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/52.png 
+{\rm susy} = {\rm SYM}/I_{\rm susy}
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>12</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/53.png 
+Q \; = \; \lambda^{\alpha}\left(
+{\partial\over\partial\theta^{\alpha}} + \theta^{\beta}\Gamma^m_{\beta\alpha}\; {\partial\over\partial x^m}
+\right)
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>38</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/54.png 
+\lambda^{\alpha}
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>4</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/55.png 
+{\partial\over\partial\theta^{\alpha}} + \theta^{\beta}\Gamma^m_{\beta\alpha}\; {\partial\over\partial x^m}
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>32</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/56.png 
+V\;
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>4</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/57.png 
+{\cal P\,}^n
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>4</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/58.png 
+n
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>4</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/59.png 
+\lambda^{\alpha}\Gamma_{\alpha\beta}^m\;\lambda^{\beta}= 0
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>24</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/60.png 
+\lambda^{\alpha}\Gamma^m_{\alpha\beta}\;\lambda^{\beta}
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>24</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/61.png 
+\ldots\longrightarrow {\cal P\,}^n\otimes V \xrightarrow{Q} {\cal P\,}^{n+1}\otimes V \longrightarrow \ldots
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>17</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/62.png 
+Q = \lambda^{\alpha} S_{\alpha}
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>9</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/63.png 
+SYM
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>4</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/64.png 
+H^n(Q,V\;) = H^n({\rm SYM}, V\;)
+size:35
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>15</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/65.png 
+V = (U{\rm susy})'
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/66.png 
+{\bf psu}(2,2|4)
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/67.png 
+{\bf g}
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>9</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/68.png 
+{\bf g} = {\bf psu}(2,2|4)
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/69.png 
+{\bf g}_{\bar{0}}\subset {\bf g}
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>10</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/70.png 
+{\bf g}_{\bar{0}} = so(1,4)\oplus so(5)
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/71.png 
+{AdS_5\times S^5} = G_{\bar{0}}\backslash G
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/72.png 
+{\bf g}_{\bar{0}}
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>10</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/73.png 
+[t^0_{\cal A}\;,\;t^0_{\cal B}] = f_{\cal AB}{}^{\cal C} t^0_{\cal C}
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>21</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/74.png 
+t_{\hat{\alpha}}^1\;,\; t_m^2 \;,\; t_{\alpha}^3
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/75.png 
+0,1,2,3
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>9</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/76.png 
+{\bf Z}_4
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>8</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/77.png 
+t^0_{\cal A}
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/78.png 
+[t^0_{\cal A}\;,\,t^1_{\hat{\alpha}}\,] \;=\;
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/79.png 
+f_{{\cal A}\hat{\alpha}}{}^{\hat{\beta}} t^1_{\hat{\beta}}
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>24</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/80.png 
+[t^0_{\cal A}\;,\,t^2_m\,] \;=\;
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/81.png 
+f_{{\cal A}m}{}^n t^2_n
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/82.png 
+[t^0_{\cal A}\;,\,t^3_{\alpha}\,] \;=\;
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/83.png 
+f_{{\cal A}\alpha}{}^{\beta} t^1_{\beta}
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>24</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/84.png 
+t^3_{\alpha}
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/85.png 
+t^1_{\hat{\beta}}
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>24</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/86.png 
+\{t^3_{\alpha}\;,\,t^1_{\dot{\beta}}\} = f_{\alpha\dot{\beta}}{}^{\cal A} t^0_{\cal A}
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>26</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/87.png 
+\{t_{\alpha}^3\;,\,t_{\beta}^3\}
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>24</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/88.png 
+t^2_m
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/89.png 
+\{t^3_{\alpha}\;,\,t^3_{\beta}\} \;=\; 
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>24</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/90.png 
+\Gamma^m_{\alpha\beta}\; t^2_m
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>24</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/91.png 
+\{t^1_{\hat{\alpha}}\;,\,t^1_{\hat{\beta}}\} \;=\; 
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>24</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/92.png 
+\Gamma^m_{\hat{\alpha}\hat{\beta}}\; t^2_m
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>24</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/93.png 
+{\cal L}_{\rm tot}
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>8</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/94.png 
+{\cal L}_L
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>8</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/95.png 
+{\cal L}_R
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>8</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/96.png 
+\{\nabla^L_{\alpha},\nabla^R_{\dot{\beta}}\} =\;
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>24</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/97.png 
+f_{\alpha\dot{\beta}}{}^{\cal A}t^0_{\cal A}\;\;\;
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>26</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/98.png 
+[t^0_{\cal A}\;,\;\nabla^L_{\alpha}] = \;
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>21</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/99.png 
+f_{{\cal A}\alpha}{}^{\beta}\nabla^L_{\beta}
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>24</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/100.png 
+[t^0_{\cal A}\;,\;\nabla^R_{\dot{\alpha}}] = \;
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>21</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/101.png 
+f_{{\cal A}\dot{\alpha}}{}^{\dot{\beta}}\nabla^R_{\dot{\beta}}
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>24</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/102.png 
+\Gamma_{m_1\ldots m_5}^{\alpha\beta} \;\;\;\;\; \{\nabla^L_{\alpha}\;,\;\nabla^L_{\beta}\} = \;
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>24</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/103.png 
+\Gamma_{m_1\ldots m_5}^{\dot{\alpha}\dot{\beta}} \;\;\;\;\;
+\{\nabla^R_{\dot{\alpha}}\;,\;\nabla^R_{\dot{\beta}}\} = \;
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>24</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/104.png 
+{\cal L}_{\rm tot} = {\cal L}_L + {\cal L}_R + {\bf g}_{\bar{0}}
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>10</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/105.png 
+H^n(Q,V\,) = H^n({\cal L}_{\rm tot}\;,\;{\bf g}_{\bar{0}}\;,\;V\,)
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/106.png 
+C^n = \mbox{Hom}_{{\bf g}_{\bar{0}}}\left(
+\Lambda^n\left( {{\cal L}_{\rm tot}\over {\bf g}_{\bar{0}}} \right)\;,\;V
+\right)
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>38</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/107.png 
+I\subset {\cal L}_{\rm tot}
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>8</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/108.png 
+{\bf psu}(2,2|4) = {\cal L}_{\rm tot}/I
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/109.png 
+V = (U{\bf g})'
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/110.png 
+H^n\left({\cal L}_{\rm tot}\;,\;{\bf g}_{\bar{0}}\;,\;\,(U{\bf g})'\right) \;=\; H^n(I)
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/111.png 
+H^2(I)
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/112.png 
+H_2(I) \;=\;
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/113.png 
+\left\{ \sum_i x_i\wedge y_i\;|\; \sum_i [x_i,y_i] = 0 \right\}
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>46</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/114.png 
+\sum_i \left([x_i,y_i]\wedge z_i + \mbox{cycl}(x,y,z)\right)
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>44</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/115.png 
+C^{\alpha\dot{\alpha}} \nabla^L_{\alpha}\wedge\nabla^R_{\dot{\beta}}
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>24</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/116.png 
+C^{\alpha\dot{\alpha}}
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>4</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/117.png 
+[\nabla_k^L,\nabla_l^L]\wedge [\nabla_m^R,\nabla_n^R]
++ [\nabla_m^L\;,\nabla_n^L]\wedge [\nabla_k^R,\nabla_l^R]
+\;
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>21</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/118.png 
+= {\cal R}_{klmn}
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>8</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/119.png 
+(\nabla_{[k}^L-\nabla_{[k}^R)\wedge [\nabla^L_l,\nabla^L_{m]}\;]
+\;
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>25</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/120.png 
+= H_{klm} =\partial_{[k}B_{lm]}
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>13</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/121.png 
+A_m^{\pm}\;
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/122.png 
+= A_m^L \pm A_m^R
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>21</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/123.png 
+g^{lm}{\cal R}_{klmn} \;
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>9</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/124.png 
+= {3\over 4} \nabla_{(k}A^-_{n)}
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>32</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/125.png 
+0 \;
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>4</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/126.png 
+= \nabla_{[k}A^-_{n]}
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>25</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/127.png 
+\nabla^k H_{klm} \;
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>8</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/128.png 
+= \nabla_{[l} A^+_{m]}
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>25</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/129.png 
+= \nabla_{(l}A^+_{m)}
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>25</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/130.png 
+A^-_n
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/131.png 
+A_n^+
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/132.png 
+L_+  =\;
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>10</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/133.png 
+{\partial\over\partial\tau^+}
++ \left( J^{{\cal A}}_{0+} - N^{{\cal A}}_+ \right)t^0_{{\cal A}} \;\;\;+
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>32</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/134.png 
+
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>4</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/135.png 
+\phantom{\partial\over\partial\tau^+} + {1\over z} J^{\alpha}_{3+}\;\;t^3_{\alpha}
++ {1\over z^2} J^m_{2+}\;t^2_m + {1\over z^3} J^{\dot{\alpha}}_{1+}\; t^1_{\dot{\alpha}}
++ {1\over z^4} N^{{\cal A}}_+t^0_{{\cal A}}\;\;\;
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>32</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/136.png 
+L_- = \;
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>10</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/137.png 
+{\partial\over\partial\tau^-}
++ \left( J^{{\cal A}}_{0-} - N^{{\cal A}}_- \right)t^0_{{\cal A}} \;\;\; +
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>32</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/138.png 
+\phantom{\partial\over\partial\tau^-}
++ zJ^{\dot{\alpha}}_{1-}\;\;t^1_{\dot{\alpha}} + z^2 J^m_{2-}\;t^2_m
++ z^3J^{\alpha}_{3-}\;\;t^3_{\alpha} + z^4N^{{\cal A}}_- t^0_{{\cal A}}\;\;\;
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>32</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/139.png 
+t^0_{{\cal A}}\;\;\;, t^1_{\dot{\alpha}}\;, t^2_m\;, t^3_{\alpha}
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/140.png 
+{\bf g} = {\bf psl}(4|4)
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/141.png 
+[t^{\bar{a}}_A \;,  t^{\bar{b}}_B\; ] = f_{AB}{}^C t^{\bar{a} + \bar{b}\mbox{ \tiny mod } 4}_C
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>21</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/142.png 
+J
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>4</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/143.png 
+J_{\bar{k}} = -(dg g^{-1})_{\bar{k}}
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/144.png 
+z
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>4</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/145.png 
+[L_+,L_-] = 0
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/146.png 
+{1\over z}t_{\alpha}^3\;
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>32</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/147.png 
+{1\over z^2} t^2_m\;
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>32</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/148.png 
+{1\over z^3} t^1_{\dot{\alpha}}\;
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>32</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/149.png 
+\ldots
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>4</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/150.png 
+L{\bf g} = L{\bf psl}(4|4)
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/151.png 
+{\partial\over\partial\tau^+}
++ \left( J^{\cal A}_{0+} - N^{\cal A}_+ \right)T^0_{\cal A}\;\;\;+
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>32</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/152.png 
+\phantom{\partial\over\partial\tau^+} +  J^{\alpha}_{3+}\;\;T^{-1}_{\alpha}
++  J^m_{2+}\;T^{-2}_m +  J^{\dot{\alpha}}_{1+}\; T^{-3}_{\dot{\alpha}}
++  N^{\cal A}_+T^{-4}_{\cal A}\;\;
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>32</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/153.png 
+{\partial\over\partial\tau^-}
++ \left( J^{\cal A}_{0-} - N^{\cal A}_- \right)T^0_{\cal A} \;\;\;+
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>32</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/154.png 
+\phantom{\partial\over\partial\tau^-}
++ J^{\dot{\alpha}}_{1-}\;T^1_{\dot{\alpha}} + J^m_{2-}\;T^2_m
++ J^{\alpha}_{3-}\;T^3_{\alpha} + N^{\cal A}_- T^4_{\cal A}\;\;\;
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>32</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/155.png 
+T_{\alpha}^{-1}
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/156.png 
+ z^{-1}t^3_{\alpha}
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/157.png 
+T^{n}_A
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/158.png 
+L_{\pm}
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>10</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/159.png 
+T_A^n
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/160.png 
+\{\nabla_{\alpha}^L, \nabla_{\beta}^L\} = \;
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>24</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/161.png 
+f_{\alpha\beta}{}^m A_m^L
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>22</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/162.png 
+[\nabla_{\alpha}^L, A_m^L\,] = \;
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>21</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/163.png 
+f_{\alpha m}{}^{\dot{\beta}} W_{L\dot{\beta}}
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>26</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/164.png 
+\nabla^R_{\dot{\alpha}}
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>21</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/165.png 
+A_m^L
+size:22
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>9</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/166.png 
+f_{\alpha m}{}^{\dot{\beta}}
+size:22
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>18</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/167.png 
+W_{L\dot{\beta}}
+size:22
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>13</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/168.png 
+L_+  = \;
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>10</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/169.png 
+\left(
+   {\partial\over \partial \tau^+}
+   + J_{0+}^{\cal A}\; t^0_{\cal A} \;\;\;
+\right)
++ J_{3+}^{\alpha}\; \nabla^L_{\alpha} + J_{2+}^m\; A^L_m + J_{1+}^{\dot{\alpha}} \; W^L_{\dot{\alpha}} +
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>38</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/170.png 
++ \; \lambda_L^{\alpha} w_{L+}^{\dot{\beta}}\;\, \left(
+\{  \nabla^L_{\alpha} \,,\, W^L_{\dot{\beta}}\}
+- f_{\alpha\dot{\beta}}{}^{\cal A} t^0_{\cal A}\;\;\;\,\right)
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>31</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/171.png 
+\left(
+   {\partial\over\partial\tau^-}
+   + J_{0-}^{\cal A}\; t^0_{\cal A}\;\;\;
+\right)
++ J_{1-}^{\dot{\alpha}}\; \nabla^R_{\dot{\alpha}}
++ J_{2-}^m \,A^R_m + J_{3-}^{\alpha}\; W^R_{\alpha} +
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>38</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/172.png 
++ \; \lambda_R^{\dot{\alpha}} w_{R-}^{\beta}\;\,\left(
+   \{ \nabla^R_{\dot{\alpha}} \;,\; W^R_{\beta} \}
+   - f_{\dot{\alpha}\beta}{}^{\cal A} t^0_{\cal A}\;\;\;\,
+\right)
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>24</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/173.png 
+\xi_0(\tau^+,\tau^-) \in {\bf g}_{\bar{0}}
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/174.png 
+\delta_{\xi_{\bar{0}}}
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>12</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/175.png 
+\delta_{\xi_{\bar{0}}} g =\;
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>12</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/176.png 
+\xi_{\bar{0}} g
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>10</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/177.png 
+\delta_{\xi_{\bar{0}}} \lambda_{L|R} =\;
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>13</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/178.png 
+[\xi_{\bar{0}},\;\lambda_{L|R}]
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>13</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/179.png 
+\delta_{\xi_{\bar{0}}} w_{\pm} =\;
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>12</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/180.png 
+[\xi_{\bar{0}},\;w_{\pm}]
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/181.png 
+\delta_{\xi_0}L_{\pm} = [\xi_0,\;L_{\pm}]
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>12</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/182.png 
+[L_+,L_-]=0
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/183.png 
+Q_{\rm BRST}\; g \;=\;
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>9</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/184.png 
+(\lambda_L^{\alpha}t^3_{\alpha} + \lambda_R^{\hat{\alpha}}t^1_{\hat{\alpha}})g
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>21</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/185.png 
+Q_{\rm BRST}\; w_{1+} \;=\;
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>10</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/186.png 
+J_{1+}
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>10</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/187.png 
+Q_{\rm BRST}\; w_{3-} \;=\;
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>10</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/188.png 
+J_{3-}
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>10</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/189.png 
+Q_{\rm BRST}\; \lambda_{L|R} \;=\;
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>13</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/190.png 
+   Q_{BRST}L_{\pm} \;=\;
+\left[
+   L_{\pm}\;,\;\left(
+      \lambda_L^{\alpha}\nabla^L_{\alpha} +
+      \lambda_R^{\dot{\alpha}} \nabla^R_{\dot{\alpha}}
+   \right)
+\right]
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>23</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/191.png 
+H^2({\cal L}_{\rm tot},{\bf g}_{\bar{0}}, \; (U{\bf g})')
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/192.png 
+\xi
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>9</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/193.png 
+\eta
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>9</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/194.png 
+(U{\bf g})'
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/195.png 
+g\in PSU(2,2|4)
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/196.png 
+\psi\in H^2({\cal L}_{\rm tot},{\bf g}_{\bar{0}}, \; (U{\bf g})')
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/197.png 
+g
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>9</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/198.png 
+\psi(\xi,\eta)(g)
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/199.png 
+L_{\pm} = {\partial\over\partial \tau^{\pm}} + {\cal J}_{\pm}
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>32</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/200.png 
+{\cal J}_{\pm}
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>10</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/201.png 
+U = \psi({\cal J}_+,{\cal J}_-)(g)
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/202.png 
+{\cal L}_v = \iota_v d + d \iota_v
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>8</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/203.png 
+{\cal J} = {\cal J}_+ d\tau^+ + {\cal J}_- d\tau^-
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>10</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/204.png 
+{\cal J}
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>7</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/205.png 
+\psi
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>9</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/206.png 
+Q_{\rm Lie}
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>9</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/207.png 
+d
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>4</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/208.png 
+\epsilon
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>4</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/209.png 
+\epsilon'
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/210.png 
+I_{\epsilon}
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>8</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/211.png 
+I_{\epsilon} = \epsilon(\lambda_L^{\alpha} \nabla^L_{\alpha} + \lambda_R^{\hat{\alpha}}\nabla^R_{\hat{\alpha}})
+{\partial\over\partial {\cal J}}
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>34</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/212.png 
+\epsilon(\lambda_L^{\alpha} \nabla^L_{\alpha} + \lambda_R^{\hat{\alpha}}\nabla^R_{\hat{\alpha}})
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>21</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/213.png 
+\epsilon Q = dI_{\epsilon} + I_{\epsilon}d
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>9</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/214.png 
+d\psi = 0
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>9</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/215.png 
+\epsilon Q\psi = dw\;\;
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>9</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/216.png 
+\;\;w = I_{\epsilon}\psi
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>9</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/217.png 
+[dI_{\epsilon'} + I_{\epsilon'}d\;\;,\;\; I_{\epsilon}]\;\psi = 0
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>13</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/218.png 
+\epsilon'Q\;w = {1\over 2}dv\;\;
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>32</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/219.png 
+\;\;v = I_{\epsilon'}I_{\epsilon}\psi
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>13</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/220.png 
+v
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>4</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+notes/221.png 
+\lambda_L + \lambda_R
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>8</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
 talk_Brasilia/1.png 
 \sigma
 size:25
@@ -1319,7 +3352,7 @@ HI
 --------------------------
 XML
 talk_Brasilia/145.png 
-C^{\alpha\dot{\alpha}} \nabla^L_{\alpha}\wedge\nabla^R_{\dot{\beta}}
+C^{\alpha\hat{\alpha}} (\nabla^L_{\alpha}-W^R_{\alpha})\wedge(\nabla^R_{\hat{\beta}}-W^L_{\hat{\alpha}})
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>24</depth></report>========
 --------------------------
@@ -1337,6 +3370,15 @@ HI
 --------------------------
 XML
 talk_Brasilia/147.png 
+W^{L|R}
+size:25
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>4</depth></report>========
+--------------------------
+HI
+========
+--------------------------
+XML
+talk_Brasilia/148.png 
 [\nabla_k^L,\nabla_l^L]\wedge [\nabla_m^R,\nabla_n^R]
 + [\nabla_m^L\;,\nabla_n^L]\wedge [\nabla_k^R,\nabla_l^R]
 \;
@@ -1347,7 +3389,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/148.png 
+talk_Brasilia/149.png 
 = {\cal R}_{klmn}
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>8</depth></report>========
@@ -1356,7 +3398,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/149.png 
+talk_Brasilia/150.png 
 (\nabla_{[k}^L-\nabla_{[k}^R)\wedge [\nabla^L_l,\nabla^L_{m]}\;]
 \;
 size:25
@@ -1366,7 +3408,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/150.png 
+talk_Brasilia/151.png 
 = H_{klm} =\partial_{[k}B_{lm]}
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>13</depth></report>========
@@ -1375,7 +3417,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/151.png 
+talk_Brasilia/152.png 
 A_m^{\pm}\;
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
@@ -1384,7 +3426,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/152.png 
+talk_Brasilia/153.png 
 = A_m^L \pm A_m^R
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>21</depth></report>========
@@ -1393,7 +3435,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/153.png 
+talk_Brasilia/154.png 
 g^{lm}{\cal R}_{klmn} \;
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>9</depth></report>========
@@ -1402,7 +3444,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/154.png 
+talk_Brasilia/155.png 
 = {3\over 4} \nabla_{(k}A^-_{n)}
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>32</depth></report>========
@@ -1411,7 +3453,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/155.png 
+talk_Brasilia/156.png 
 0 \;
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>4</depth></report>========
@@ -1420,7 +3462,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/156.png 
+talk_Brasilia/157.png 
 = \nabla_{[k}A^-_{n]}
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>25</depth></report>========
@@ -1429,7 +3471,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/157.png 
+talk_Brasilia/158.png 
 \nabla^k H_{klm} \;
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>8</depth></report>========
@@ -1438,7 +3480,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/158.png 
+talk_Brasilia/159.png 
 = \nabla_{[l} A^+_{m]}
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>25</depth></report>========
@@ -1447,7 +3489,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/159.png 
+talk_Brasilia/160.png 
 = \nabla_{(l}A^+_{m)}
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>25</depth></report>========
@@ -1456,7 +3498,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/160.png 
+talk_Brasilia/161.png 
 A^-_n
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
@@ -1465,7 +3507,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/161.png 
+talk_Brasilia/162.png 
 A_n^+
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
@@ -1474,7 +3516,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/162.png 
+talk_Brasilia/163.png 
 L_+  =\;
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>10</depth></report>========
@@ -1483,7 +3525,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/163.png 
+talk_Brasilia/164.png 
 {\partial\over\partial\tau^+}
 + \left( J^{{\cal A}}_{0+} - N^{{\cal A}}_+ \right)t^0_{{\cal A}} \;\;\;+
 size:25
@@ -1493,7 +3535,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/164.png 
+talk_Brasilia/165.png 
 
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>4</depth></report>========
@@ -1502,7 +3544,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/165.png 
+talk_Brasilia/166.png 
 \phantom{\partial\over\partial\tau^+} + {1\over z} J^{\alpha}_{3+}\;\;t^3_{\alpha}
 + {1\over z^2} J^m_{2+}\;t^2_m + {1\over z^3} J^{\dot{\alpha}}_{1+}\; t^1_{\dot{\alpha}}
 + {1\over z^4} N^{{\cal A}}_+t^0_{{\cal A}}\;\;\;
@@ -1513,7 +3555,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/166.png 
+talk_Brasilia/167.png 
 L_- = \;
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>10</depth></report>========
@@ -1522,7 +3564,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/167.png 
+talk_Brasilia/168.png 
 {\partial\over\partial\tau^-}
 + \left( J^{{\cal A}}_{0-} - N^{{\cal A}}_- \right)t^0_{{\cal A}} \;\;\; +
 size:25
@@ -1532,7 +3574,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/168.png 
+talk_Brasilia/169.png 
 \phantom{\partial\over\partial\tau^-}
 + zJ^{\dot{\alpha}}_{1-}\;\;t^1_{\dot{\alpha}} + z^2 J^m_{2-}\;t^2_m
 + z^3J^{\alpha}_{3-}\;\;t^3_{\alpha} + z^4N^{{\cal A}}_- t^0_{{\cal A}}\;\;\;
@@ -1543,7 +3585,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/169.png 
+talk_Brasilia/170.png 
 t^0_{{\cal A}}\;\;\;, t^1_{\dot{\alpha}}\;, t^2_m\;, t^3_{\alpha}
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
@@ -1552,7 +3594,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/170.png 
+talk_Brasilia/171.png 
 {\bf g} = {\bf psl}(4|4)
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
@@ -1561,7 +3603,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/171.png 
+talk_Brasilia/172.png 
 [t^{\bar{a}}_A \;,  t^{\bar{b}}_B\; ] = f_{AB}{}^C t^{\bar{a} + \bar{b}\mbox{ \tiny mod } 4}_C
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>21</depth></report>========
@@ -1570,7 +3612,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/172.png 
+talk_Brasilia/173.png 
 J
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>4</depth></report>========
@@ -1579,7 +3621,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/173.png 
+talk_Brasilia/174.png 
 N
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>4</depth></report>========
@@ -1588,7 +3630,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/174.png 
+talk_Brasilia/175.png 
 J_{\bar{k}} = -(dg g^{-1})_{\bar{k}}
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
@@ -1597,7 +3639,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/175.png 
+talk_Brasilia/176.png 
 N_+ = \{w_+,\lambda_L\}\;,\;\; N_- = \{w_-,\lambda_R\}
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
@@ -1606,7 +3648,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/176.png 
+talk_Brasilia/177.png 
 z
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>4</depth></report>========
@@ -1615,7 +3657,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/177.png 
+talk_Brasilia/178.png 
 [L_+,L_-] = 0
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
@@ -1624,7 +3666,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/178.png 
+talk_Brasilia/179.png 
 {1\over z}t_{\alpha}^3\;
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>32</depth></report>========
@@ -1633,7 +3675,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/179.png 
+talk_Brasilia/180.png 
 {1\over z^2} t^2_m\;
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>32</depth></report>========
@@ -1642,7 +3684,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/180.png 
+talk_Brasilia/181.png 
 {1\over z^3} t^1_{\dot{\alpha}}\;
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>32</depth></report>========
@@ -1651,7 +3693,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/181.png 
+talk_Brasilia/182.png 
 \ldots
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>4</depth></report>========
@@ -1660,7 +3702,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/182.png 
+talk_Brasilia/183.png 
 L{\bf g} = L{\bf psl}(4|4)
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
@@ -1669,7 +3711,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/183.png 
+talk_Brasilia/184.png 
 {\partial\over\partial\tau^+}
 + \left( J^{\cal A}_{0+} - N^{\cal A}_+ \right)T^0_{\cal A}\;\;\;+
 size:25
@@ -1679,7 +3721,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/184.png 
+talk_Brasilia/185.png 
 \phantom{\partial\over\partial\tau^+} +  J^{\alpha}_{3+}\;\;T^{-1}_{\alpha}
 +  J^m_{2+}\;T^{-2}_m +  J^{\dot{\alpha}}_{1+}\; T^{-3}_{\dot{\alpha}}
 +  N^{\cal A}_+T^{-4}_{\cal A}\;\;
@@ -1690,7 +3732,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/185.png 
+talk_Brasilia/186.png 
 {\partial\over\partial\tau^-}
 + \left( J^{\cal A}_{0-} - N^{\cal A}_- \right)T^0_{\cal A} \;\;\;+
 size:25
@@ -1700,7 +3742,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/186.png 
+talk_Brasilia/187.png 
 \phantom{\partial\over\partial\tau^-}
 + J^{\dot{\alpha}}_{1-}\;T^1_{\dot{\alpha}} + J^m_{2-}\;T^2_m
 + J^{\alpha}_{3-}\;T^3_{\alpha} + N^{\cal A}_- T^4_{\cal A}\;\;\;
@@ -1711,7 +3753,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/187.png 
+talk_Brasilia/188.png 
 T_{\alpha}^{-1}
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
@@ -1720,7 +3762,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/188.png 
+talk_Brasilia/189.png 
  z^{-1}t^3_{\alpha}
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
@@ -1729,7 +3771,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/189.png 
+talk_Brasilia/190.png 
 T^{n}_A
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
@@ -1738,7 +3780,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/190.png 
+talk_Brasilia/191.png 
 L_{\pm}
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>10</depth></report>========
@@ -1747,7 +3789,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/191.png 
+talk_Brasilia/192.png 
 T_A^n
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
@@ -1756,7 +3798,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/192.png 
+talk_Brasilia/193.png 
 \{\nabla_{\alpha}^L, \nabla_{\beta}^L\} = \;
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>24</depth></report>========
@@ -1765,7 +3807,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/193.png 
+talk_Brasilia/194.png 
 f_{\alpha\beta}{}^m A_m^L
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>22</depth></report>========
@@ -1774,7 +3816,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/194.png 
+talk_Brasilia/195.png 
 [\nabla_{\alpha}^L, A_m^L\,] = \;
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>21</depth></report>========
@@ -1783,7 +3825,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/195.png 
+talk_Brasilia/196.png 
 f_{\alpha m}{}^{\dot{\beta}} W_{L\dot{\beta}}
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>26</depth></report>========
@@ -1792,7 +3834,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/196.png 
+talk_Brasilia/197.png 
 \nabla^R_{\dot{\alpha}}
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>21</depth></report>========
@@ -1801,7 +3843,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/197.png 
+talk_Brasilia/198.png 
 A_m^L
 size:22
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>9</depth></report>========
@@ -1810,7 +3852,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/198.png 
+talk_Brasilia/199.png 
 f_{\alpha m}{}^{\dot{\beta}}
 size:22
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>18</depth></report>========
@@ -1819,7 +3861,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/199.png 
+talk_Brasilia/200.png 
 W_{L\dot{\beta}}
 size:22
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>13</depth></report>========
@@ -1828,7 +3870,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/200.png 
+talk_Brasilia/201.png 
 L_+  = \;
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>10</depth></report>========
@@ -1837,7 +3879,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/201.png 
+talk_Brasilia/202.png 
 \left(
    {\partial\over \partial \tau^+}
    + J_{0+}^{\cal A}\; t^0_{\cal A} \;\;\;
@@ -1850,7 +3892,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/202.png 
+talk_Brasilia/203.png 
 + \; \lambda_L^{\alpha} w_{L+}^{\dot{\beta}}\;\, \left(
 \{  \nabla^L_{\alpha} \,,\, W^L_{\dot{\beta}}\}
 - f_{\alpha\dot{\beta}}{}^{\cal A} t^0_{\cal A}\;\;\;\,\right)
@@ -1861,7 +3903,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/203.png 
+talk_Brasilia/204.png 
 \left(
    {\partial\over\partial\tau^-}
    + J_{0-}^{\cal A}\; t^0_{\cal A}\;\;\;
@@ -1875,7 +3917,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/204.png 
+talk_Brasilia/205.png 
 + \; \lambda_R^{\dot{\alpha}} w_{R-}^{\beta}\;\,\left(
    \{ \nabla^R_{\dot{\alpha}} \;,\; W^R_{\beta} \}
    - f_{\dot{\alpha}\beta}{}^{\cal A} t^0_{\cal A}\;\;\;\,
@@ -1887,7 +3929,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/205.png 
+talk_Brasilia/206.png 
 \xi_0(\tau^+,\tau^-) \in {\bf g}_{\bar{0}}
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
@@ -1896,7 +3938,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/206.png 
+talk_Brasilia/207.png 
 \delta_{\xi_{\bar{0}}}
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>12</depth></report>========
@@ -1905,7 +3947,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/207.png 
+talk_Brasilia/208.png 
 \delta_{\xi_{\bar{0}}} g =\;
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>12</depth></report>========
@@ -1914,7 +3956,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/208.png 
+talk_Brasilia/209.png 
 \xi_{\bar{0}} g
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>10</depth></report>========
@@ -1923,7 +3965,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/209.png 
+talk_Brasilia/210.png 
 \delta_{\xi_{\bar{0}}} \lambda_{L|R} =\;
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>13</depth></report>========
@@ -1932,7 +3974,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/210.png 
+talk_Brasilia/211.png 
 [\xi_{\bar{0}},\;\lambda_{L|R}]
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>13</depth></report>========
@@ -1941,7 +3983,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/211.png 
+talk_Brasilia/212.png 
 \delta_{\xi_{\bar{0}}} w_{\pm} =\;
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>12</depth></report>========
@@ -1950,7 +3992,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/212.png 
+talk_Brasilia/213.png 
 [\xi_{\bar{0}},\;w_{\pm}]
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
@@ -1959,7 +4001,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/213.png 
+talk_Brasilia/214.png 
 \delta_{\xi_0}L_{\pm} = [\xi_0,\;L_{\pm}]
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>12</depth></report>========
@@ -1968,7 +4010,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/214.png 
+talk_Brasilia/215.png 
 [L_+,L_-]=0
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
@@ -1977,7 +4019,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/215.png 
+talk_Brasilia/216.png 
 Q_{\rm BRST}\; g \;=\;
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>9</depth></report>========
@@ -1986,7 +4028,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/216.png 
+talk_Brasilia/217.png 
 (\lambda_L^{\alpha}t^3_{\alpha} + \lambda_R^{\hat{\alpha}}t^1_{\hat{\alpha}})g
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>21</depth></report>========
@@ -1995,7 +4037,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/217.png 
+talk_Brasilia/218.png 
 Q_{\rm BRST}\; w_{1+} \;=\;
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>10</depth></report>========
@@ -2004,7 +4046,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/218.png 
+talk_Brasilia/219.png 
 J_{1+}
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>10</depth></report>========
@@ -2013,7 +4055,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/219.png 
+talk_Brasilia/220.png 
 Q_{\rm BRST}\; w_{3-} \;=\;
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>10</depth></report>========
@@ -2022,7 +4064,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/220.png 
+talk_Brasilia/221.png 
 J_{3-}
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>10</depth></report>========
@@ -2031,7 +4073,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/221.png 
+talk_Brasilia/222.png 
 Q_{\rm BRST}\; \lambda_{L|R} \;=\;
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>13</depth></report>========
@@ -2040,7 +4082,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/222.png 
+talk_Brasilia/223.png 
    Q_{BRST}L_{\pm} \;=\;
 \left[
    L_{\pm}\;,\;\left(
@@ -2055,7 +4097,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/223.png 
+talk_Brasilia/224.png 
 H^2({\cal L}_{\rm tot},{\bf g}_{\bar{0}}, \; (U{\bf g})')
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
@@ -2064,7 +4106,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/224.png 
+talk_Brasilia/225.png 
 \xi
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>9</depth></report>========
@@ -2073,7 +4115,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/225.png 
+talk_Brasilia/226.png 
 \eta
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>9</depth></report>========
@@ -2082,7 +4124,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/226.png 
+talk_Brasilia/227.png 
 (U{\bf g})'
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
@@ -2091,7 +4133,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/227.png 
+talk_Brasilia/228.png 
 g\in PSU(2,2|4)
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
@@ -2100,7 +4142,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/228.png 
+talk_Brasilia/229.png 
 \psi\in H^2({\cal L}_{\rm tot},{\bf g}_{\bar{0}}, \; (U{\bf g})')
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
@@ -2109,7 +4151,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/229.png 
+talk_Brasilia/230.png 
 g
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>9</depth></report>========
@@ -2118,7 +4160,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/230.png 
+talk_Brasilia/231.png 
 \psi(\xi,\eta)(g)
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
@@ -2127,7 +4169,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/231.png 
+talk_Brasilia/232.png 
 L_{\pm} = {\partial\over\partial \tau^{\pm}} + {\cal J}_{\pm}
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>32</depth></report>========
@@ -2136,7 +4178,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/232.png 
+talk_Brasilia/233.png 
 {\cal J}_{\pm}
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>10</depth></report>========
@@ -2145,7 +4187,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/233.png 
+talk_Brasilia/234.png 
 U = \psi({\cal J}_+,{\cal J}_-)(g)
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
@@ -2154,7 +4196,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/234.png 
+talk_Brasilia/235.png 
 {\cal L}_v = \iota_v d + d \iota_v
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>8</depth></report>========
@@ -2163,7 +4205,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/235.png 
+talk_Brasilia/236.png 
 {\cal J} = {\cal J}_+ d\tau^+ + {\cal J}_- d\tau^-
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>10</depth></report>========
@@ -2172,7 +4214,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/236.png 
+talk_Brasilia/237.png 
 {\cal J}
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>7</depth></report>========
@@ -2181,7 +4223,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/237.png 
+talk_Brasilia/238.png 
 \psi
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>9</depth></report>========
@@ -2190,7 +4232,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/238.png 
+talk_Brasilia/239.png 
 Q_{\rm Lie}
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>9</depth></report>========
@@ -2199,7 +4241,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/239.png 
+talk_Brasilia/240.png 
 d
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>4</depth></report>========
@@ -2208,7 +4250,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/240.png 
+talk_Brasilia/241.png 
 \epsilon
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>4</depth></report>========
@@ -2217,7 +4259,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/241.png 
+talk_Brasilia/242.png 
 \epsilon'
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>11</depth></report>========
@@ -2226,7 +4268,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/242.png 
+talk_Brasilia/243.png 
 I_{\epsilon}
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>8</depth></report>========
@@ -2235,7 +4277,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/243.png 
+talk_Brasilia/244.png 
 I_{\epsilon} = \epsilon(\lambda_L^{\alpha} \nabla^L_{\alpha} + \lambda_R^{\hat{\alpha}}\nabla^R_{\hat{\alpha}})
 {\partial\over\partial {\cal J}}
 size:25
@@ -2245,7 +4287,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/244.png 
+talk_Brasilia/245.png 
 \epsilon(\lambda_L^{\alpha} \nabla^L_{\alpha} + \lambda_R^{\hat{\alpha}}\nabla^R_{\hat{\alpha}})
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>21</depth></report>========
@@ -2254,7 +4296,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/245.png 
+talk_Brasilia/246.png 
 \epsilon Q = dI_{\epsilon} + I_{\epsilon}d
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>9</depth></report>========
@@ -2263,7 +4305,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/246.png 
+talk_Brasilia/247.png 
 d\psi = 0
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>9</depth></report>========
@@ -2272,7 +4314,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/247.png 
+talk_Brasilia/248.png 
 \epsilon Q\psi = dw\;\;
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>9</depth></report>========
@@ -2281,7 +4323,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/248.png 
+talk_Brasilia/249.png 
 \;\;w = I_{\epsilon}\psi
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>9</depth></report>========
@@ -2290,7 +4332,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/249.png 
+talk_Brasilia/250.png 
 [dI_{\epsilon'} + I_{\epsilon'}d\;\;,\;\; I_{\epsilon}]\;\psi = 0
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>13</depth></report>========
@@ -2299,7 +4341,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/250.png 
+talk_Brasilia/251.png 
 \epsilon'Q\;w = {1\over 2}dv\;\;
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>32</depth></report>========
@@ -2308,7 +4350,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/251.png 
+talk_Brasilia/252.png 
 \;\;v = I_{\epsilon'}I_{\epsilon}\psi
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>13</depth></report>========
@@ -2317,7 +4359,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/252.png 
+talk_Brasilia/253.png 
 v
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>4</depth></report>========
@@ -2326,10 +4368,7 @@ HI
 ========
 --------------------------
 XML
-talk_Brasilia/253.png 
+talk_Brasilia/254.png 
 \lambda_L + \lambda_R
 size:25
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><report><depth>8</depth></report>========
---------------------------
-STOP
-========
