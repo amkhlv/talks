@@ -52,10 +52,12 @@
      ,(tabular 
        `(("Andrei Mikhailov")
          ("IFT UNESP, São Paulo")
-         (,(image #:scale 0.75 "pngs/from-the-window.png"))
+         (,(image "pngs/from-the-window.png"))
          (,(hrule))
          ("on leave from ITEP, Moscow")
          )))))
+@linebreak[]
+@hyperlink["https://github.com/amkhlv/talks"]{source code}
 
 @slide["Plan of the talk" #:tag "Plan" #:showtitle #t]{
 @itemlist[
@@ -450,8 +452,13 @@ Now I will talk about some details of the Type II superspace.
 
 The main question is: 
 @itemlist[
-@item{can Super-Yang-Mills algebras in the context of SUGRA?}
+@item{are quadratic algebras useful in the context of SUGRA? (As they were in SYM)}
 ]
+As a possible application I will give some interpretation of the relation between integrated
+and unintegrated vertex operators. 
+@equation{
+U = A_{\alpha} \partial \theta^{\alpha} + A_m\Pi^m + W^{\alpha}d_{\alpha} + F_{mn} N^{mn}
+}
 
 We will start by discussing the SUGRA data, @italic{i.e.} which structures should
 be defined on the space-time?
