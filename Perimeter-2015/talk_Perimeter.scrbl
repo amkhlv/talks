@@ -120,6 +120,23 @@ Notice the singularity at @f{\lambda_L=0} or @f{\lambda_R=0}
 I also want @f{Q=Q_L + Q_R} where @f{Q_L} and @f{Q_R} are separately
 nilpotent symmetries, and moreover @f{Q_L} is holomorphic and @f{Q_R}
 antiholomorphic.
+
+And I want the action of algebraic tori: @f{{\bf C}_{\times}^L} and @f{{\bf C}_{\times}^R}
+(holomorphic and antiholomorphic). I want their orbits to go through the @seclink["SingularLocus"]{singular locus},
+by scaling the bosonic ghosts to zero. The idea is that the bosonic ghosts are ``infinitesimal''. 
+Everything infinitesimal can be scaled. (But they take values in the cone, not in a linear space.)
+
+The BRST operators should be charged under @f{{\bf C}_{\times}^L} and @f{{\bf C}_{\times}^R}:
+@tbl[@list[
+ @list[
+  "" @f{{\bf C}_{\times}^L} @f{{\bf C}_{\times}^R}
+]@list[
+  @f{Q_L} @f{+1} @f{0}
+]@list[
+  @f{Q_R} @f{0} @f{-1}
+]
+]]
+
 }
 
 @slide["Singular locus" #:tag "SingularLocus" #:showtitle  #t]{
