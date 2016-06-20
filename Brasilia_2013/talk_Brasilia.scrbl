@@ -1,8 +1,8 @@
 #lang scribble/base
 @(require racket scribble/core scribble/base scribble/html-properties)
-@(require (for-syntax "defs_for-syntax.rkt" (planet amkhlv/bystroTeX/slides_for-syntax)))
+@(require "defs_for-syntax.rkt" (for-syntax (planet amkhlv/bystroTeX/slides_for-syntax)))
 @(require "defs.rkt" (planet amkhlv/bystroTeX/common) (planet amkhlv/bystroTeX/slides))
-@(require (only-in (planet jaymccarthy/sqlite) close))
+@(require (only-in db/base disconnect))
 @; ---------------------------------------------------------------------------------------------------
 @; User definitions:
 @(define bystro-conf 
@@ -18,16 +18,16 @@
 @; This controls the single page mode:
 @(define singlepage-mode #f)
 @; ---------------------------------------------------------------------------------------------------
-@(begin ;do not change anything here:
+
    (define (start-formula-database)
      (configure-bystroTeX-using bystro-conf)
      (bystro-initialize-formula-collection bystro-conf))
    (define formula-database (start-formula-database))
    (unless (bystro-formula-processor bystro-conf)
      (error "*** could not find executable for formula processing ***"))
-   (define-syntax (syntax-setter x) (defines-syntax-for-formulas x))                
-   (syntax-setter defineshiftedformula)
-   (defineshiftedformula "formula-enormula-humongula!")
+
+@(bystro-def-formula "formula-enormula-humongula!")
+
    (bystro-titlepage-init #:singlepage-mode singlepage-mode))
 @; ---------------------------------------------------------------------------------------------------
 @; AND HOPEFULLY SOME CONTENT:
@@ -787,4 +787,4 @@ We think that this circle of ideas should be further developed.
 
 @; ---------------------------------------------------------------------------------------------------
 
-@close[formula-database]
+@disconnect[formula-database]

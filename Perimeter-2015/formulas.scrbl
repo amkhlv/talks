@@ -1,13 +1,13 @@
 #lang scribble/base
 @(require racket scribble/core scribble/base scribble/html-properties)
-@(require (for-syntax "defs_for-syntax.rkt" (planet amkhlv/bystroTeX/slides_for-syntax)))
+@(require (for-syntax (planet amkhlv/bystroTeX/slides_for-syntax)))
 @(require "defs.rkt" (planet amkhlv/bystroTeX/common) (planet amkhlv/bystroTeX/slides))
-@(require (only-in (planet jaymccarthy/sqlite) close))
+@(require (only-in db/base disconnect))
 @; ---------------------------------------------------------------------------------------------------
 @; User definitions:
 @(define bystro-conf   
    (bystro (bystro-connect-to-server #f "127.0.0.1" 29049 "svg")
-           "formulas_formulas.sqlite"  ; name for the database
+           "formulas/formulas.sqlite"  ; name for the database
            "formulas" ; directory where to store .png files of formulas
            25  ; formula size
            (list 255 255 255) ; formula background color
@@ -19,10 +19,10 @@
 @; This controls the single page mode:
 @(define singlepage-mode #t)
 @; ---------------------------------------------------------------------------------------------------
-@(begin ;do not change anything here:
-   (define-syntax (syntax-setter x) (defines-syntax-for-formulas x))                
-   (syntax-setter defineshiftedformula)
-   (defineshiftedformula "formula-enormula-humongula!"))
+
+
+@(bystro-def-formula "formula-enormula-humongula!")
+
 @; ---------------------------------------------------------------------------------------------------
 
 
@@ -96,7 +96,7 @@ E^{R}_{\hat{\alpha}}\mapsto (h_R)^{\hat{\alpha}'}_{\hat{\alpha}}E^{R}_{\hat{\alp
 
 @; ---------------------------------------------------------------------------------------------------
 @(bystro-close-connection bystro-conf)
-@close[formula-database]
+@disconnect[formula-database]
 
  
   
