@@ -2,6 +2,8 @@
 My talks
 ========
 
+The slides are written in [BystroTeX](http://andreimikhailov.com/slides/bystroTeX/slides-manual/index.html)
+
 Brazilia 2013
 -------------
 
@@ -16,3 +18,12 @@ Perimeter Institute 2015
 [Talk in Perimeter Institute, April 2015](http://andreimikhailov.com/slides/talk_Perimeter/index.html), the workshop website is
 [here](https://www.perimeterinstitute.ca/conferences/superstring-perturbation-theory).
 The video recording is [here](https://www.perimeterinstitute.ca/videos/notes-type-ii-worldsheet-sigma-model).
+
+
+BV formalism and string amplitudes, IFT UNESP, June 2016
+--------------------------------------------------------
+
+Slides are available [here](http://andreimikhailov.com/slides/talk_IFT-math_2016/index.html), and the
+[recording](http://200.145.112.249/webcast/20160617f/) on the
+[workshop website](http://www.ictp-saifr.org/?page_id=11263)
+
