@@ -30,7 +30,7 @@ Albert Schwarz, UC Davis
 
 @table-of-contents[]
 
-
+@smaller[@hyperlink["https://github.com/amkhlv/talks/tree/master/ift-math_2016"]{source code}]
 
 
 @slide["Equivalence classes of theories" #:tag "Equivalence Classes of Theories" #:showtitle #t]{
