@@ -5,7 +5,7 @@
 @; User definitions:
 @(bystro-set-css-dir (build-path (find-system-path 'home-dir) "a" "git" "amkhlv" "profiles" "talk"))
 @(define bystro-conf   
-   (bystro (bystro-connect-to-server #f "127.0.0.1" 29049 "svg")
+   (bystro (bystro-connect-to-server (build-path (find-system-path 'home-dir) ".config" "amkhlv" "latex2svg.xml"))
            "AndreiMikhailov/formulas.sqlite"  ; name for the database
            "AndreiMikhailov" ; directory where to store .png files of formulas
            25  ; formula size
