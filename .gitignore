@@ -1,0 +1,9 @@
+Brasilia_2013/schemas/
+Perimeter-2015/formulas/
+Perimeter-2015/schemas/
+Perimeter-2015/talk_Perimeter/
+ift-math_2016/AndreiMikhailov/
+**/copy-to-*.sh
+**/*.html
+**/*formulas.sqlite
+**/*~

@@ -31,6 +31,8 @@ ICTP-SAIFR, São Paulo, Brazil
 
 Based on @hyperlink["http://arxiv.org/abs/arXiv:1906.12042"]{http://arxiv.org/abs/arXiv:1906.12042}
 
+@hyperlink["https://github.com/amkhlv/talks/blob/master/IFT-quantum-symmetries_2019/short.scrbl"](source code)
+
 @bystro-toc[]
 
 @page["A geometrical picture of renormgroup" #:tag "GeometricalAbstraction" #:showtitle #t]
