@@ -27,3 +27,11 @@ Slides are available [here](http://andreimikhailov.com/slides/talk_IFT-math_2016
 [recording](http://200.145.112.249/webcast/20160617f/) on the
 [workshop website](http://www.ictp-saifr.org/?page_id=11263)
 
+
+Workshop on Quantum Symmetries, ICTP-SAIFR, October 2019
+--------------------------------------------------------
+
+[Slides](http://andreimikhailov.com/slides/2019_workshop_quantum-symmetries/index.html),
+[recording](https://youtu.be/FXTRRT6mt-E),
+[workshop website](https://www.ictp-saifr.org/workshop-on-quantum-symmetries/)
+

@@ -1,0 +1,12 @@
+<config>
+  <scribblings>
+    <scribbling>
+      <name>talk</name>
+      <multipage/>
+    </scribbling>
+    <scribbling>
+      <name>short</name>
+      <multipage/>
+    </scribbling>
+  </scribblings>
+</config>
